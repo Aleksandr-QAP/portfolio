@@ -26,5 +26,5 @@
 2) Запуск теста:
 
     ```bash
-    pytest -v *
+    pytest -v tests.py
     ```
